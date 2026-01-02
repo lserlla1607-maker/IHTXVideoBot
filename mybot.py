@@ -46,7 +46,7 @@ conn.commit()
 prefix = ':'
 theme = 0x6100FF
 invitelink = "https://discord.com/oauth2/authorize?client_id=1456584616533299343&permissions=8&integration_type=0&scope=bot"
-bottoken = "MTQ1NjU4NDYxNjUzMzI5OTM0Mw.GunLfu.-LOT2FQEoZPYkvqoAdW78A25H70OMbKsPlLB5M" # place your bot token here
+bottoken = "MTQ1NjU4NDYxNjUzMzI5OTM0Mw.GyU2pU.S6H2ftYlmtee2Vl4UpOF9J3rCXMTM8Nv5EyOKQ" # place your bot token here
 UPLOAD_DIR = "./uploads"
 folder.makeDir(UPLOAD_DIR)
 folder.clear(UPLOAD_DIR,True)
